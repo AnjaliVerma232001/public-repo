@@ -1,1 +1,2 @@
 This is Kastro's Text File
+this data is written from local repo
